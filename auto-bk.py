@@ -5,7 +5,7 @@ import shutil
 import config
 
 time.sleep(1)
-print('\n===== オートバックアップくんを起動します =====')
+print('\n===== auto-bk を起動します =====')
 print('コピー元ディレクトリ：' + config.from_path)
 print('コピー先ディレクトリ：' + config.to_path)
 
@@ -28,4 +28,4 @@ time.sleep(.5)
 print('\n===== バックアップが完了しました =====')
 
 time.sleep(1)
-print('\n===== オートバックアップくんを終了します =====')
+print('\n===== auto-bk を終了します =====')
