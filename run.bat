@@ -1,1 +1,1 @@
-python3 auto-bk.py
+python auto-bk.py
